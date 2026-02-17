@@ -11,10 +11,11 @@ This project provides a robust Python-based pipeline for capturing, processing, 
 2. **Create & Activate Virtual Environment (Recommended):**
    ```bash
    python3.10 -m venv env
-# Windows:
+   ```bash
+   # Windows:
    .\env\Scripts\activate
-# macOS/Linux:
-source env/bin/activate
+   # macOS/Linux:
+   source env/bin/activate
 3. **Install required libraries:**
    pip install -r requirements.txt
 ## Tech Stack & Libraries
