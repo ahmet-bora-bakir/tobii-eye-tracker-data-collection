@@ -9,9 +9,10 @@ This project provides a robust Python-based pipeline for capturing, processing, 
    git clone https://github.com/ahmet-bora-bakir/tobii-eye-tracker.git
    cd tobii-eye-tracker
 2. **Create & Activate Virtual Environment (Recommended):**
+   ```bash
    python3.10 -m venv env
 # Windows:
-.\env\Scripts\activate
+   .\env\Scripts\activate
 # macOS/Linux:
 source env/bin/activate
 3. **Install required libraries:**
