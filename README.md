@@ -17,7 +17,8 @@ This project provides a robust Python-based pipeline for capturing, processing, 
    # macOS/Linux:
    source env/bin/activate
 3. **Install required libraries:**
-   pip install -r requirements.txt
+   ```bash
+    pip install -r requirements.txt
 ## Tech Stack & Libraries
 This project is built with the following core libraries:
 
@@ -46,4 +47,4 @@ This library (tobii-research) officially supports the following models:
 * It is highly recommended to use a virtual environment with Python 3.10 to avoid library conflicts and ensure the SDK handles the hardware calls correctly.
 
 ## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
