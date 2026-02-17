@@ -41,4 +41,7 @@ This library (tobii-research) officially supports the following models:
 * Tobii TX300, T60, T120, X2-30, X2-60, X3-120
 
 ### 4. Suggestions
-* Activate an environment and install python 3.10 in it and, then setup all the libraries to work the program successfully. 
+* It is highly recommended to use a virtual environment with Python 3.10 to avoid library conflicts and ensure the SDK handles the hardware calls correctly.
+
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
