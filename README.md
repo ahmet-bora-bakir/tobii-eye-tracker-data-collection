@@ -6,7 +6,7 @@ This project provides a robust Python-based pipeline for capturing, processing, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ahmet-bora-bakir/tobii-eye-tracker.git
+   git clone https://github.com/ahmet-bora-bakir/tobii-eye-tracker-data-collection.git
    cd tobii-eye-tracker
 2. **Create & Activate Virtual Environment (Recommended):**
    ```bash
